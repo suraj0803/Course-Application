@@ -1,0 +1,5 @@
+com\springrest\springrest\entities\Course.class
+com\springrest\springrest\controller\MyController.class
+com\springrest\springrest\service\CourseService.class
+com\springrest\springrest\SpringrestApplication.class
+com\springrest\springrest\service\CourseServiceImpl.class
